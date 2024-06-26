@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/biisal/biisal-filter-bot",
-    "repository": "https://github.com/biisal/biisal-filter-bot",
+    "repository": "https://github.com/Infinityworl/biisal-filter-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
